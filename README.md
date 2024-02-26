@@ -1,9 +1,13 @@
 <h1 align="center">Hi 👋, I'm David Thomas</h1>
-<h3 align="center">A passionate frontend developer from Germany</h3>
+<h3 align="center">An ongoing DevOps Engineer from Germany.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=damoth2706&label=Profile%20views&color=0e75b6&style=flat" alt="damoth2706" /> </p>
 
+- 🌱 I’m currently learning **Jenkins, Linux, AWS**
+
 - 📫 How to reach me **davidthomas@gmx.net**
+
+- 📄 Know about my experiences [https://docs.google.com/document/d/1ekgDFpVt3LGCrogTMuZIyWBJ0BBIc-SPeQalS9h-TJY/edit](https://docs.google.com/document/d/1ekgDFpVt3LGCrogTMuZIyWBJ0BBIc-SPeQalS9h-TJY/edit)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -16,5 +20,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=damoth2706&show_icons=true&locale=en&layout=compact" alt="damoth2706" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=damoth2706&show_icons=true&locale=en" alt="damoth2706" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=damoth2706&" alt="damoth2706" /></p>

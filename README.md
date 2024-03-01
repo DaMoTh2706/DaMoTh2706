@@ -1,7 +1,7 @@
 <h1 align="center">Hi , I'm David Thomas</h1>
 <h3 align="center">An ongoing DevOps Engineer from Hanau, Germany.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=DavidMTH&label=Profile%20views&color=0e75b6&style=flat" alt="DavidMTH" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=damoth2706&label=Profile%20views&color=0e75b6&style=flat" alt="damoth2706" /> </p>
 
 - 🌱 I’m currently learning **Jenkins, Linux, AWS**
 
